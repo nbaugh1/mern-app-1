@@ -17,10 +17,5 @@
     "mongoose": "^6.9.1",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.20"
-  },
-  "nodemonConfig": {
-       "env": {
-         "CONNECTION_STRING": "mongodb+srv://nbaugh1:uq05ghfkzRVoeQLp@cluster1-mern-app-1.sil9vcp.mongodb.net/?retryWrites=true&w=majority"
-      }
-    }
+  }
 }
